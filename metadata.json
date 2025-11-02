@@ -1,0 +1,7 @@
+{
+  "name": "Notary Ally",
+  "description": "A comprehensive toolkit for Notary Publics, featuring appointment scheduling, mileage tracking, location services, an electronic journal with signature capture, and a handy FAQ section.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
